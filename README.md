@@ -5,9 +5,13 @@ VCSs are mostly used for Source code management. That's why they are also referr
 
 ## History of Version control
 Source Code control system (SCCS) - 1972 - Unix only
+
 Revision Control System(RCS) - 1982 - cross platform
+
 Concurrent Versions System(CVS) - 1986 - more than one user can work on same file concurrently.
+
 Apache Subversion(SVN) - 2000 - allowed files of non-text file format.
+
 Git - 2005 - developed by Linus Torvalds
 
 - Git is s distributed version control and it is very popular. Github was launched in 2008 to host git repositories online.
