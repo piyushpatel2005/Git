@@ -18,9 +18,10 @@ Project level:
 
 For example,
 
-`git config --global user.name "Your Username"'
+```bash
+git config --global user.name "Your Username"
 
-'git config --global user.email "youremail@email.com"`
+git config --global user.email "youremail@email.com"`
 
 You can list git configuration using `--list` flag.
 
