@@ -19,3 +19,5 @@ Git - 2005 - developed by Linus Torvalds
 ## Lessons:
 
 1. [Basic Configuration with Git](lessons/configuration.md)
+2. [Basic Commands with Git](lessons/basic_commands.md)
+3. [Making and tracking changes](lessons/changes.md)

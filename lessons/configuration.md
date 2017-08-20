@@ -73,14 +73,14 @@ This gives you auto-completion feature in Git.
 Use `git help` to get help.
 To get help on any command, use:
 
-```git
+`
 git help <command>
-```
+`
 
 For example,
 
-```git
+`
 git help log
-```
+`
 
 to move to the next page in command line use 'f', for backward 'b' or you can scroll using 'UP' and 'DOWN' arrow keys.
