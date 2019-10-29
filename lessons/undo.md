@@ -18,3 +18,6 @@ It is possible to change the last commit.
 
 We can revert the commit using
 `git revert <sha of commit>`
+
+Revert back everything to earlier commit
+`git checkout 281ca3131e4db5 -- .`
